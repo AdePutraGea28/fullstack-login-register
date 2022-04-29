@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-login-register",
+  "version": "1.0.0",
+  "description": "create fullstack login and register",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Putra_Gea",
+  "license": "ISC"
+}
